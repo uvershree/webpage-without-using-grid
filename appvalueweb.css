@@ -1,0 +1,156 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.title-bg
+{
+    background-color:rgb(222, 222, 247);
+    width: 100%;
+    height: 90px;
+
+}
+.fa-solid{
+    color: black;
+    font-size: 20px;
+    margin: 10px;
+    margin-left: 10px;
+   
+    
+}
+.icon{
+margin-left: 50px;
+padding-top: 20px;
+
+}
+.icon-bg{
+    background-color: rgb(94, 23, 175);
+    height: 40px;
+    width:40px;
+    display: inline-block;
+    border-radius: 20px;
+    
+
+}
+.icon-bg:hover{
+    background-color: rgb(221, 9, 175);
+
+}
+.title{
+    position:absolute;
+    top:20px;
+    left: 900px;
+}
+img{
+    position:absolute;
+    width: 50px;
+    height: 50px;
+    left:-50px;
+    
+}
+.search{
+    position:absolute;
+    right:20px;
+    top: 40px;
+}
+.searchicon
+{
+    position:absolute;
+    right:20px;
+    top: 37px;
+    background-color: rgb(153, 15, 207);
+    height:30px;
+    width:30px;
+    border-radius: 15px;
+    
+   
+}
+.searchicon:hover{
+   background-color:rgb(255, 0, 200);
+}
+.bg-navi{
+    background-color: aliceblue;
+    margin-top:30px;
+    padding: 30px;
+}
+.navi{
+    margin-left: 240px;
+    font-size: 30px;
+    color: rgb(34, 4, 68);
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+
+}
+.navi:hover{
+    color:rgb(233, 222, 241);
+    background-color: rgb(109, 14, 187);
+    border: 2px;
+    border-radius: 4px;
+    
+}
+.ng{
+    width: 40%;
+    height: 45%;
+    margin:150px 150px;
+    transition-timing-function: linear;
+    transition-duration: 1s;
+    transition-delay: 0.4;
+
+}
+.ng:hover{
+    width: 100px;
+    height: 100px;
+    transition-duration: 1s;
+    transition-delay: 0.4;
+
+}
+.login-bg{
+    height:600px;
+    width: 600px;
+    background-color: rgb(151, 111, 189) ;
+    right: 200px;
+    position: absolute;
+    top: 300px;
+
+}
+.puchi{
+    position: absolute;
+    left: 270px;
+    top: -10px;
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+}
+.log{
+    padding-top: 50px;
+}
+.log-box{
+    width: 400px ;
+    height: 50px;
+    margin-left: 80px;
+    margin-top: 40px;
+    border-radius: 5px;
+    border-color: rgb(121, 65, 173);
+}
+button{
+    height: 50px;
+    width: 100px;
+    color: rgb(34, 2, 56);
+    background-color: rgb(164, 125, 201);
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 250px;
+    border-radius: 5px;
+
+
+    
+}
+button:hover{
+    background-color: rgb(119, 95, 134);
+}
+.pass{
+    margin-left:350px;
+    color : rgb(76, 13, 177);
+}
